@@ -1,1 +1,1 @@
-# imagemFundoRand-mica
+# imagemFundoRandomica
